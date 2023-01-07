@@ -21,6 +21,3 @@ We will use a combination of visual interpretation and statistical analysis to i
 
 ## Results
 We will present our findings in the form of summary statistics and visualizations. We will also include a discussion of the implications of our results for policy recommendations.
-
-## Author
-Hassan R. - [LinkedIn](https://www.linkedin.com/in/ihasanreza/)
